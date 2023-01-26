@@ -1,2 +1,2 @@
-The definition of a paragraph is a distinct section of a piece of writing, usually dealing with a single theme and indicated by a new line, indentation, or numbering. Typically there are five sentences in a paragraph but that depends on the style of the writer.
-This is a short paragraph. It will have two sentences.
+The definition of a paragraph is a distinct chunk of a piece of writing, usually dealing with a single theme and indicated by a new line, indentation, or numbering. Typically there are five sentences in a paragraph but that depends on the style of the writer.
+This is a short paragraph. It will be two sentences.
