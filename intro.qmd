@@ -89,9 +89,8 @@ order). Add yours; note the syntax of nested list in Markdown.
     - Be able to speak intelligently about data science and it's facets
     - Gain practical experience
 + Whitney, William
-    - Learn more
-    - Discover
-    
+    - Learn more about the field of data science
+    - Discover if Git is useful for future career opportunities and project management
 + Win, Marlins
     - Run my own deep learning algorithm on a real dataset
     - Become proficient with Git
