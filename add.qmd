@@ -1,2 +1,3 @@
-The definition of a paragraph is a distinct chunk of a piece of writing, usually dealing with a single theme and indicated by a new line, indentation, or numbering. Typically there are five sentences in a paragraph but that depends on the style of the writer.
-This is a short paragraph. It will be two sentences.
+This is the new add.qmd files
+I will modify this file multiple times
+This is my first time using Git and GitHub
