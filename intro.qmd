@@ -88,9 +88,10 @@ order). Add yours; note the syntax of nested list in Markdown.
     - Gain some project experience that I can cite or reference in interviews
     - Be able to speak intelligently about data science and it's facets
     - Gain practical experience
-
-    - Learn more about the field of data science
++ Whitney, William
+    - Learn more about the field of data science and all it entails
     - Discover if Git is useful for future career opportunities and project management
+    - Challenhge myself in a difficult, fast-paced class.
 + Win, Marlins
     - Run my own deep learning algorithm on a real dataset
     - Become proficient with Git
