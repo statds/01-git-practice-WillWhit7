@@ -1,0 +1,1 @@
+git diff is able to tell us the similarity index between the 2 previous commits using git diff HEAD~1..HEAD
