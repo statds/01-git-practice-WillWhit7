@@ -1,3 +1,0 @@
-This is the new add.qmd files
-I will modify this file multiple times
-This is my first time using Git and GitHub
